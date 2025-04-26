@@ -1,2 +1,2 @@
-# LEADCODE
+# LEETCODE
 sql and python practice 
